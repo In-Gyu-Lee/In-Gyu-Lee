@@ -16,6 +16,4 @@ Here are some ideas to get you started:
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Lee%20InGyu's%20Github&desc=Welcome&height=300&fontAlignY=35&fontSize=60&descSize=35&descAlignY=55&descAlign=70)
 
-![In-Gyu-Lee's GitHub stats](https://github-readme-stats-six-rho-21.vercel.app/api?username=In-Gyu-Lee&show_icons=true&theme=radical)
-
 ![Top Langs](https://github-readme-stats-six-rho-21.vercel.app/api/top-langs/?username=In-Gyu-Lee&layout=compact)
