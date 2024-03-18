@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **In-Gyu-Lee/In-Gyu-Lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,6 +13,10 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&text=Lee%20InGyu's%20Github&desc=Welcome&height=300&fontAlignY=35&fontSize=60&descSize=35&descAlignY=55&descAlign=70)
+
+
 ![In-Gyu-Lee's GitHub stats](https://github-readme-stats.vercel.app/api?username=In-Gyu-Lee&show_icons=true&theme=radical)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=In-Gyu-Lee&layout=compact)
